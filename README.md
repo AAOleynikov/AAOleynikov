@@ -1,5 +1,4 @@
-## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀`𝕞 𝔸𝕟𝕥𝕠𝕟
-## Computer science student
+## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀`𝕞 𝔸𝕟𝕥𝕠𝕟 \n Computer science student
 
 <!--
 **AAOleynikov/AAOleynikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
