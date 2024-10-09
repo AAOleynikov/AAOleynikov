@@ -2,7 +2,7 @@
 Computer science student
 
 - 🎓 I'm studying at the RK6 BMSTU
-(CAD/CAE/PDM/MDM/PLM Department of Bauman Moscow State Technical University)
+(CAD/CAE/PDM/MDM/PLM Department)
 - 🔭 I’m currently working on SVHDL (VHDL web based IDE for my university department)
 
 <picture>
